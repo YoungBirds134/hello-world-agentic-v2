@@ -11,3 +11,4 @@ Dự án kiểm thử tính Agentic của Personal AI Hub.
 - Lưu trữ tại: `sources/hello-world-agentic-v2`
 - Tiêu chuẩn: ISC v1.0
 - Quy trình Git: AI Hub Git Workflow v1.0
+Update for Environment Merge Test
